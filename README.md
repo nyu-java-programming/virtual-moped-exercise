@@ -2,6 +2,12 @@
 
 Virtual object-oriented mopeds roaming the streets of New York.
 
+## Get your own copy of this code
+
+Before you begin, make your own copy of this repository by clicking the `Fork` button towards the top-right of this page on GitHub. This creates a copy, called a fork, in your own GitHub account, where you have permission to make changes.
+
+Then clone your own fork onto your computer and open it in Visual Studio Code. Take care to clone your own fork rather than this original repository - the web address of your fork contains your own GitHub username.
+
 ## Requirements
 
 The goal is to create a program that allows a user to drive a virtual moped around the virtual streets of Manhattan, albeit on the Java command line.
@@ -165,7 +171,8 @@ Once you have completed the changes to th assignment, you are ready to submit it
 1. Click on the `Source Control` icon in the left activity bar in Visual Studio Code.
 1. In the Source Control side bar, you will see a field named `Message` - type in a unique message about what you have done, e.g. "_Finished assignment!_" or whatever you want to write as a short note to yourself.
 1. Hover over the words `Source Control`. You will see a `...` icon appear - click it to see a menu. In that menu, click `Commit`->`Commit`. This logs the changes you've made to the Git project - remember Git is used to keep track of changes.
-1. Go to the same menu and click `Push` to submit your assignment - this uploads your updated files to the copy of your respository on GitHub.
+1. Go to the same menu and click `Push` to upload your work - this uploads your updated files to your own fork of this repository on GitHub.
+1. Post the web address of your fork in your own private channel in the course Discord. This is what tells us your work is ready to be graded.
 
 ![Push changes to GitHub](./images/how_to_push_changes_to_github_from_vscode.png)
 
@@ -173,8 +180,8 @@ That's it... you're done.
 
 ## Double-check your submission
 
-Prove to yourself that you have correctly submitted by viewing your repository on the GitHub website - you should see your completed README.md file there.
+Prove to yourself that you have correctly submitted by viewing your own fork on the GitHub website - you should see your completed README.md file there. Check also that the address you posted in Discord opens that fork.
 
 ## Resubmit as many times as you want
 
-You can re-submit as many times as you want before the deadline. Just make changes to the files on your own computer and repeat the process outlined above to upload them to GitHub.
+You can re-submit as many times as you want before the deadline. Just make changes to the files on your own computer and repeat the process outlined above to upload them to your fork on GitHub. There is no need to post the address again, since it continues to point at your work as you update it.
