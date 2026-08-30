@@ -172,7 +172,7 @@ Once you have completed the changes to th assignment, you are ready to submit it
 1. In the Source Control side bar, you will see a field named `Message` - type in a unique message about what you have done, e.g. "_Finished assignment!_" or whatever you want to write as a short note to yourself.
 1. Hover over the words `Source Control`. You will see a `...` icon appear - click it to see a menu. In that menu, click `Commit`->`Commit`. This logs the changes you've made to the Git project - remember Git is used to keep track of changes.
 1. Go to the same menu and click `Push` to upload your work - this uploads your updated files to your own fork of this repository on GitHub.
-1. Post the web address of your fork in your own private channel in the course Discord. This is what tells us your work is ready to be graded.
+1. Share the web address of your fork using the messaging app specified by your instructor, posting it wherever the instructor has directed you to submit work. This is what tells us your work is ready to be graded.
 
 ![Push changes to GitHub](./images/how_to_push_changes_to_github_from_vscode.png)
 
@@ -180,7 +180,7 @@ That's it... you're done.
 
 ## Double-check your submission
 
-Prove to yourself that you have correctly submitted by viewing your own fork on the GitHub website - you should see your completed README.md file there. Check also that the address you posted in Discord opens that fork.
+Prove to yourself that you have correctly submitted by viewing your own fork on the GitHub website - you should see your completed README.md file there. Check also that the address you shared opens that fork.
 
 ## Resubmit as many times as you want
 
